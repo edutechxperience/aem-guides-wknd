@@ -10,7 +10,7 @@
     "POST"
   ],
   "alloworigin":[
-    ""
+    "localhost:3000"
   ],
   "maxage:Integer":1800,
   "alloworiginregexp":[

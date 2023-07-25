@@ -22,7 +22,7 @@
     <version>2.1.5-SNAPSHOT</version>
      <name>WKND Sites Project - Reactor Project</name>
     <description>WKND Sites Project</description>
-    <url>https://github.com/adobe/aem-guides-wknd</url>
+    <url>https://github.com/edutechxperience/aem-guides-wknd</url>
     <inceptionYear>2019</inceptionYear>
 
     <licenses>
@@ -59,7 +59,7 @@
         <bnd.version>5.1.2</bnd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <aem.sdk.api>2022.11.9850.20221116T162329Z-220900</aem.sdk.api>
+        <aem.sdk.api>2022.7.8085.20220725T140323Z-220700</aem.sdk.api>
         <componentGroupName>WKND Site</componentGroupName>
         <core.wcm.components.version>2.20.8</core.wcm.components.version>
         <uber.jar.version>6.5.13</uber.jar.version>
